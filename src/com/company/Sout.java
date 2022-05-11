@@ -2,7 +2,6 @@ package com.company;
 
 public class Sout {
     public void sout(){
-
         Programmer prog = new Programmer("Nurdin","Hacer","Peaksoft");
         System.out.println(prog);
         prog.learn();
