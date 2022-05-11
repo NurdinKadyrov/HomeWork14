@@ -1,6 +1,7 @@
 package com.company;
 
 public class Programmer extends Person{
+
     private String companyName;
 
     public Programmer(String name, String desingnation, String companyName) {

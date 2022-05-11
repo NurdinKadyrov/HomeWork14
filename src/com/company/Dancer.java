@@ -1,5 +1,6 @@
 package com.company;
 
+
 public class Dancer extends Person {
     private String groupName;
 
